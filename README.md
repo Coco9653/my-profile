@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Self Introduction</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Self Introduction</title>
+<script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
     <h1 class="pt-10 text-5xl font-bold text-purple-600 text-center">Coco</h1>
